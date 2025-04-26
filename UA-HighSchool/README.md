@@ -6,4 +6,4 @@ Example: python3 script_name.py
 
 It will prompt you for necessary information such as IP and the command you wish to execute.
 
-Only Works When Ran on Linux OS
+Only Works When Ran on a Linux OS
