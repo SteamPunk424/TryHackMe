@@ -1,1 +1,1 @@
-This is where im going to post scripts ive written for certain boxes that were particularly helpful
+This is where I'm going to post scripts I've written for certain boxes that were particularly helpful for me.
